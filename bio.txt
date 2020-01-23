@@ -1,4 +1,4 @@
 Hello, My name is Ali!
-Coding is really fun!
+Web development is really fun!
 I've been interested in it for a while
 I hope to one day become a full stack developer
